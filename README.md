@@ -11,10 +11,10 @@ Implemented responsive design techniques to ensure the tribute page adapts seaml
 Set the maximum and minimum width of the page and used relative units to create a fluid layout that scales appropriately on various devices, from large desktop screens to mobile phones.
 
 Image Handling:
-Incorporated an image of Stephen Sondheim using the <img> tag and applied CSS styles to ensure the image's responsiveness. The max-width property enabled the image to adjust according to the screen width while maintaining its aspect ratio. Additionally, by centering the image, it appears aesthetically pleasing regardless of the device's display size.
+Incorporated an image of Stephen Sondheim using the img) tag and applied CSS styles to ensure the image's responsiveness. The max-width property enabled the image to adjust according to the screen width while maintaining its aspect ratio. Additionally, by centering the image, it appears aesthetically pleasing regardless of the device's display size.
 
 Timeline Creation:
-Crafted an engaging timeline using HTML's ordered list (<ol>) and list item (<li>) elements to showcase the key milestones of Stephen Sondheim's life. 
+Crafted an engaging timeline using HTML's ordered list (ol) and list item (li) elements to showcase the key milestones of Stephen Sondheim's life. 
 Added relevant information and used bold and italic formatting to emphasize critical events. This timeline structure provides a clear and chronological presentation of his career highlights.
 
 Typography and Styling:
@@ -25,7 +25,7 @@ Quotation Styling:
 To distinguish the quote from the rest of the text, I applied italic styling to the quote paragraph using CSS. This stylistic choice adds emphasis to Stephen Sondheim's words and draws attention to his significant insights.
 
 Hyperlink Implementation:
-Included a hyperlink to Stephen Sondheim's Wikipedia page using the anchor (<a>) tag with appropriate attributes. 
+Included a hyperlink to Stephen Sondheim's Wikipedia page using the anchor (a) tag with appropriate attributes. 
 By setting the target="_blank" attribute, I ensured the link opens in a new tab, enabling users to explore additional information without leaving the tribute page.
 
 Code Organization and Readability:
