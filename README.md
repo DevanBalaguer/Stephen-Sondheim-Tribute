@@ -4,7 +4,7 @@ Developed a page that serves as a comprehensive tribute, presenting a timeline o
 
 HTML Structure:
 Carefully structured the HTML code to create a well-organized page layout.
-Used HTML5 elements, such as <header>, <main>, and <footer>, to improve the document's semantics and accessibility. The usage of <div> elements and IDs allowed for easy styling and JavaScript manipulation in the future.
+Used HTML5 elements, such as header, main, and footer, to improve the document's semantics and accessibility. The usage of <div> elements and IDs allowed for easy styling and JavaScript manipulation in the future.
 
 Responsive Design:
 Implemented responsive design techniques to ensure the tribute page adapts seamlessly to different screen sizes.
